@@ -13,7 +13,7 @@
 - Khi user chọn xong, Click button, bật lên Modal hiển thị thông tin member
 - Hình ảnh demo
 
-![react_native_advanced_component]()
+![react_native_advanced_component](https://github.com/anhtbok92/AdvancedComponentReactNative/blob/master/advanced_component.PNG)
 
 # Hướng dẫn
 - Cài thư viện hỗ trợ component : react-native-element để có được các component cơ bản
